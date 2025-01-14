@@ -3,3 +3,15 @@ gymnasium>=0.29.1
 numpy >=1.21.0
 scikit-learn>=1.4.0
 pytest
+# wandb
+sb3-contrib
+tqdm
+tensorboard
+coolname
+plotly
+matplotlib
+rich
+tqdm
+scipy
+numba
+imitation
